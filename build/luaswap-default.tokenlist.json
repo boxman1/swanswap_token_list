@@ -1,6 +1,6 @@
 {
   "name": "Crane Finance Menu",
-  "logoURI": "https://raw.githubusercontent.com/sushiswapclassic/token-list/master/assets/sushi_logo.png",
+  "logoURI": "https://raw.githubusercontent.com/boxman1/swanswap_token_list/master/logo.png",
   "keywords": [
     "Craneswap",
     "crane",
@@ -8,6 +8,14 @@
   ],
   "timestamp": "2020-09-01T00:00:00+00:00",
   "tokens": [
+    {
+      "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
+      "chainId": 1,
+      "name": "Crane",
+      "symbol": "CRANE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/boxman1/swanswap_token_list/master/logo.png"
+    },
     {
       "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2",
       "chainId": 1,
