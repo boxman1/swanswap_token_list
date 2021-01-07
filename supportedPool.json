@@ -1,7 +1,7 @@
 [
-   {
-      "pid":16,
-      "lpAddresses":{
+{
+    pid: 3,
+    lpAddresses: {
       1: '0x7d0955eec89ed17db379157a7b15f800503f4059'
     },
     tokenAddresses: {
@@ -9,15 +9,15 @@
     },
     token2Addresses: {
       1: '0xc778417e063141139fce010982780140aa0cd5ab'
-      },
-name: 'CRANE - ETH',
-    symbol: 'CRANE-ETH CRANE-V2 LP',
-    symbolShort: 'CRANE-ETH',
+    },
+    name: 'CRANE - ETH',
+    symbol: 'CRANE-ETH SCRANE-V2 LP',
+    symbolShort: 'SWAN-ETH',
     description: `Deposit CRANE-ETH CRANE-V2 LP Earn 3xCRANE`,
     tokenSymbol: 'CRANE',
     token2Symbol: 'ETH',
-    icon: 'https://CRANE.finance/images/250x250.png',
-    icon2: 'https://CRANE.finance/images/250x250.png',
+    icon: 'https://CRANE.finance/images/favicon.png',
+    icon2: 'https://CRANE.finance/images/favicon.png',
     isHot: false,
     isNew: true,
     protocal: 'CRANE',
@@ -27,5 +27,6 @@ name: 'CRANE - ETH',
       'https://app.CRANE.finance/#/add/0xc778417E063141139Fce010982780140Aa0cD5Ab/0x7d0955eec89ed17db379157a7b15f800503f4059',
     removeLiquidityLink:
       'https://app.luaswap.org/#/remove/0xc778417E063141139Fce010982780140Aa0cD5Ab/0x7d0955eec89ed17db379157a7b15f800503f4059'
-   }
+  }
+
 ]
