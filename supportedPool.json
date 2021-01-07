@@ -1,22 +1,22 @@
 [
-   {
+      {
       "pid":16,
       "lpAddresses":{
-         "1":"0x627846f6131a4631ddf6bb53bd682ccf51f623b3"
+         "1":"0x8AC3dE4d5fd5e53273AeF00A2d1D98655CA1B190"
       },
       "tokenAddresses":{
-         "1":"0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f"
+         "1":"0x7e8cd0dd34675ecf4ca2e92a96fe67af96db301f"
       },
       "token2Addresses":{
-         "1":"0xdac17f958d2ee523a2206206994597c13d831ec7"
+         "1":"0xc778417E063141139Fce010982780140Aa0cD5Ab"
       },
-      "name":"RAMP - USDT",
-      "symbol":"RAMP-USDT USDT-V1 LP",
-      "symbolShort":"RAMP-USDT",
-      "description":"Deposit RAMP-USDT LUA-V1 LP Earn LUA",
-      "tokenSymbol":"RAMP",
+      "name":"CRANE - USDT",
+      "symbol":"CRANE-USDT USDT-V2 LP",
+      "symbolShort":"CRANE-USDT",
+      "description":"Deposit CRANE-USDT CRANE-V2 LP Earn CRANE",
+      "tokenSymbol":"CRANE",
       "token2Symbol":"USDT",
-      "icon":"https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x33D0568941C0C64ff7e0FB4fbA0B11BD37deEd9f/logo.png",
+      "icon":"https://raw.githubusercontent.com/boxman1/swanswap_token_list/master/logo.png",
       "icon2":"https://s2.coinmarketcap.com/static/img/coins/128x128/825.png",
       "isHot":false,
       "isNew":true,
