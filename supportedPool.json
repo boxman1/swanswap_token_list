@@ -7,6 +7,9 @@
       "tokenAddresses":{
          "1":"0x7e8cd0dd34675ecf4ca2e92a96fe67af96db301f"
       },
+       "token2Addresses":{
+         "1":"0xc778417E063141139Fce010982780140Aa0cD5Ab"
+      },
       "name":"CRANE - ETH",
       "symbol":"CRANE-V2",
       "symbolShort":"CRANE-ETH",
