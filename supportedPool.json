@@ -9,7 +9,7 @@
       },
       "name":"CRANE - ETH",
       "symbol":"CRANE-V2",
-      "symbolShort":"CRANE-USDT",
+      "symbolShort":"CRANE-ETH",
       "description":"Deposit CRANE-WETH CRANE-V2 LP Earn CRANE",
       "tokenSymbol":"CRANE",
       "token2Symbol":"WETH",
