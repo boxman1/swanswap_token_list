@@ -22,8 +22,8 @@
       "isNew":true,
       "protocal":"CRANE",
       "iconProtocal":"https://raw.githubusercontent.com/boxman1/swanswap_token_list/master/logo.png",
-      "pairLink":"https://CRANE.finance/pair/0x627846f6131a4631ddf6bb53bd682ccf51f623b3",
-      "addLiquidityLink":"https://CRANE.finance/#/add/0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f/0xdac17f958d2ee523a2206206994597c13d831ec7",
-      "removeLiquidityLink":"https://CRANE.finance/#/remove/0x33d0568941c0c64ff7e0fb4fba0b11bd37deed9f/0xdac17f958d2ee523a2206206994597c13d831ec7"
+      "pairLink":"https://CRANE.finance/pair/0x8ac3de4d5fd5e53273aef00a2d1d98655ca1b190",
+      "addLiquidityLink":"https://CRANE.finance/#/add/0x7e8cd0DD34675eCf4Ca2E92a96fE67AF96DB301f/0xc778417e063141139fce010982780140aa0cd5ab",
+      "removeLiquidityLink":"https://CRANE.finance/#/remove/0x7e8cd0DD34675eCf4Ca2E92a96fE67AF96DB301f/0xc778417e063141139fce010982780140aa0cd5ab"
    }
 ]
