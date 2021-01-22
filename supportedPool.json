@@ -25,33 +25,6 @@
       "pairLink":"https://dev.CRANE.finance/pair/0x8ac3de4d5fd5e53273aef00a2d1d98655ca1b190",
       "addLiquidityLink":"https://dev.CRANE.finance/#/add/0x7e8cd0DD34675eCf4Ca2E92a96fE67AF96DB301f/0xc778417e063141139fce010982780140aa0cd5ab",
       "removeLiquidityLink":"https://dev.CRANE.finance/#/remove/0x7e8cd0DD34675eCf4Ca2E92a96fE67AF96DB301f/0xc778417e063141139fce010982780140aa0cd5ab"
-   },
-            {
-      "pid":3,
-      "lpAddresses":{
-         "3":"0x8022219ad05802a50680b027fa8b4011dd61690b"
-      },
-      "tokenAddresses":{
-         "3":"0xc778417E063141139Fce010982780140Aa0cD5Ab"
-      },
-       "token2Addresses":{
-         "3":"0x443Fd8D5766169416aE42B8E050fE9422f628419"
-      },
-      "name":"BAT - ETH",
-      "symbol":"BAT-V2",
-      "symbolShort":"BAT-ETH",
-      "description":"Deposit CRANE-WETH CRANE-V2 LP Earn CRANE",
-      "tokenSymbol":"BAT",
-      "token2Symbol":"WETH",
-      "icon":"https://raw.githubusercontent.com/boxman1/swanswap_token_list/master/logo.png",
-      "icon2":"https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
-      "isHot":false,
-      "isNew":true,
-      "protocal":"CRANE",
-      "iconProtocal":"https://raw.githubusercontent.com/boxman1/swanswap_token_list/master/logo.png",
-      "pairLink":"https://dev.CRANE.finance/pair/0x8ac3de4d5fd5e53273aef00a2d1d98655ca1b190",
-      "addLiquidityLink":"https://dev.CRANE.finance/#/add/0x7e8cd0DD34675eCf4Ca2E92a96fE67AF96DB301f/0xc778417e063141139fce010982780140aa0cd5ab",
-      "removeLiquidityLink":"https://dev.CRANE.finance/#/remove/0x7e8cd0DD34675eCf4Ca2E92a96fE67AF96DB301f/0xc778417e063141139fce010982780140aa0cd5ab"
    }
       
 ]
