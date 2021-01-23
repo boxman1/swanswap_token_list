@@ -11,7 +11,7 @@
          "3":"0xc778417E063141139Fce010982780140Aa0cD5Ab"
       },
       "name":"CRANE - ETH",
-      "symbol":"CRANE-V2",
+      "symbol":"CRANE-ETH CRANE-V2",
       "symbolShort":"CRANE-ETH",
       "description":"Deposit CRANE-WETH CRANE-V2 LP Earn CRANE",
       "tokenSymbol":"CRANE",
@@ -38,7 +38,7 @@
          "3":"0xc778417e063141139fce010982780140aa0cd5ab"
       },
       "name":"SWAN - ETH",
-      "symbol":"CRANE-V2",
+      "symbol":"SWAN-ETH CRANE-V2",
       "symbolShort":"CRANE-ETH",
       "description":"Deposit SWAN-WETH CRANE-V2 LP Earn CRANE",
       "tokenSymbol":"SWAN",
