@@ -20,10 +20,10 @@
       "icon2":"https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png",
       "isHot":false,
       "isNew":true,
-      "protocal":"CRANE",
+      "protocal":"Crane",
       "iconProtocal":"https://raw.githubusercontent.com/boxman1/swanswap_token_list/master/logo.png",
       "pairLink":"https://dev.CRANE.finance/pair/0x8ac3de4d5fd5e53273aef00a2d1d98655ca1b190",
       "addLiquidityLink":"https://dev.CRANE.finance/#/add/0x7e8cd0DD34675eCf4Ca2E92a96fE67AF96DB301f/0xc778417e063141139fce010982780140aa0cd5ab",
       "removeLiquidityLink":"https://dev.CRANE.finance/#/remove/0x7e8cd0DD34675eCf4Ca2E92a96fE67AF96DB301f/0xc778417e063141139fce010982780140aa0cd5ab"
    }
-]
+     ]
